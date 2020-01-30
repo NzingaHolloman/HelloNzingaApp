@@ -9,7 +9,6 @@ Android Pre-work Project for Code Path Mobile App Design: The user sees custom t
 ### App Walk-though   
 <img src="https://i.imgflip.com/3nmi41.gif" width=200><br>
 
-link to gif: https://imgflip.com/gif/3nmi41
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
