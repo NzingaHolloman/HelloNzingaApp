@@ -7,8 +7,8 @@ Android Pre-work Project for Code Path Mobile App Design: The user sees custom t
 Android Pre-work Project for Code Path Mobile App Design: The user sees custom text in a label - Hello from {name}!, User can tap a button to change the text color of the label
 
 ### App Walk-though   
-<img src="https://i.imgflip.com/3nmi41.gif" width=200><br>
 
+<img src="https://i.imgur.com/iu5vUuS.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
